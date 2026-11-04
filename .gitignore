@@ -1,0 +1,6 @@
+reel/*.mp4
+reel/*.wav
+reel/renders/
+reel/.hyperframes/
+
+/KV-Reel-download.zip
